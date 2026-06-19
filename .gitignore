@@ -1,0 +1,9 @@
+# Never commit your key or local session data
+.env
+sessions/
+__pycache__/
+*.pyc
+.venv/
+# LibreOffice / editor lock + temp files
+.~lock.*
+*.tmp
